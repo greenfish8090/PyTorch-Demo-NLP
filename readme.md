@@ -27,7 +27,8 @@ After going through this, you should be able to train your own LSTM on whatever 
 Jk, out of scope for now. Coming soon maybe?
 
 # Setting up
-If you want to run this code,
+Colab link available [here](https://colab.research.google.com/drive/1jqSGQwp_6IcAyb9VH1xIGE8ATZYjL04Q?usp=sharing). Make a copy to your drive and play around.\
+If you want to run this code locally, follow these steps:
 1. [Install anaconda/miniconda](https://docs.anaconda.com/anaconda/install/index.html) and set it up
 2. [Clone this repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) to your local
 3. In your anaconda/miniconda command prompt, run the following from the directory containing the cloned code:
