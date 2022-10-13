@@ -12,9 +12,9 @@ Contains a full minimal training pipeline:
 - training
 - evaluation
 <!-- -->
-Note that this is meant to be demo of *PyTorch*, so practices like validation aren't used. You should use them in all your projects, however.
+Note that this is meant to be demo of *PyTorch*, so practices like validation aren't used. You should use them in all your projects.
 ### Why MNIST and not an NLP dataset?
-NLP is a sequence processing problem, and sequence models like transformers and RNNs are more involved than regular feed forward networks. I wanted to use a simple model that trains and produce results fast.
+NLP is a sequence processing problem, and sequence models like transformers and RNNs are more involved than regular feed forward networks. I wanted to use a simple model that trains and produces results fast.
 ### Why not CNN?
 Wanted to keep things simple. Moreover if I did use a CNN this might as well be a computer vision course demo :)
 
